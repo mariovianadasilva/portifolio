@@ -1,3 +1,3 @@
-## Portifólio de Gustavo G. Scavazza
+## Portifólio de Mário Viana
 ### Projetos
 * [Buscar Signos](signos/)
